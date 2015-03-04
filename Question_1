@@ -1,1 +1,5 @@
 Explain what git clone does, in your own words
+
+When you use the "git clone" command, you copy the version of a directory saved at a specific point into your directory, usually for further editing.  This process creates a "fork", as the edits you are making on this git clone are branched off from the master branch, must like branches from a growing tree.
+
+  Options on git clone can be made by adding different parameters, though I do not know enough to specify anymore
