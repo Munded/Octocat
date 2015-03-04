@@ -1,1 +1,3 @@
 Explain what a branch is, in your own words
+
+A branch is a new set of commits, independent of the main branch, and allow for experimentation with code without changes the main information.  Branches seem most useful when working on the same code as someone else, as work can be retrieved, manipulated and compared alongside a partners work, without making definitive changes to the overall project.
